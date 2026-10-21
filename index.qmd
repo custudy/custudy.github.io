@@ -20,8 +20,8 @@ toc: false
 
 ::: {.column}
 
-[news@help.custudy.org](mailto:news@help.custudy.org)\
-[pubs@help.custudy.org](mailto:pubs@help.custudy.org)
+[news@custudy.org](mailto:news@custudy.org)\
+[pubs@custudy.org](mailto:pubs@custudy.org)
 
 :::
 
@@ -44,10 +44,10 @@ toc: false
 
 ::: {.column}
 
-[consult@help.custudy.org](mailto:consult@help.custudy.org)\
-[fs@help.custudy.org](mailto:fs@help.custudy.org)\
-[survey@help.custudy.org](mailto:survey@help.custudy.org)\
-[research@help.custudy.org](mailto:research@help.custudy.org)
+[consult@custudy.org](mailto:consult@custudy.org)\
+[fs@custudy.org](mailto:fs@custudy.org)\
+[survey@custudy.org](mailto:survey@custudy.org)\
+[research@custudy.org](mailto:research@custudy.org)
 
 :::
 
