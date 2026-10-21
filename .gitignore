@@ -1,3 +1,11 @@
+.quarto/**
+_site/**
+
+**/*_files
+**/*.quarto_ipynb
+
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history

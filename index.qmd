@@ -1,0 +1,54 @@
+---
+title: "Home"
+toc: false
+---
+
+## 건설도시연구(Construction Urban Study)
+
+\
+
+**건설산업**, **도시**, **부동산** 전문가 그룹입니다.
+
+::: {.columns}
+
+::: {.column}
+
+- 뉴스레터  구독 신청:
+- 발간 보고서 및 책자:
+
+:::
+
+::: {.column}
+
+[news@help.custudy.org](mailto:news@help.custudy.org)\
+[pubs@help.custudy.org](mailto:pubs@help.custudy.org)
+
+:::
+
+:::
+
+\
+
+**사업 분야**
+
+::: {.columns}
+
+::: {.column}
+
+- 전략 컨설팅:
+- 사업성 검토:
+- 시장 조사:
+- 기획 연구:
+
+:::
+
+::: {.column}
+
+[consult@help.custudy.org](mailto:consult@help.custudy.org)\
+[fs@help.custudy.org](mailto:fs@help.custudy.org)\
+[survey@help.custudy.org](mailto:survey@help.custudy.org)\
+[research@help.custudy.org](mailto:research@help.custudy.org)
+
+:::
+
+:::

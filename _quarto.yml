@@ -1,0 +1,22 @@
+project:
+  title: "Constuction Urban Study"
+  type: website
+  resources: 
+    - CNAME
+    - "*.(png|jpg|jpeg|svg)"
+
+execute: 
+  freeze: auto
+
+website:
+  draft-mode: visible
+  navbar:
+    search: false
+
+
+format:
+  html:
+    theme: pulse
+    date-format: iso
+    title-block-banner: true
+    toc: true
