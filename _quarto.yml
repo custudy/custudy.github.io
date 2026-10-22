@@ -1,5 +1,5 @@
 project:
-  title: "Constuction Urban Study"
+  title: "CUStudy"
   type: website
   resources: 
     - CNAME
@@ -11,12 +11,22 @@ execute:
 website:
   draft-mode: visible
   navbar:
+    logo: cus_logo_v.png
     search: false
+  page-footer:
+    left: |
+      © 2026 Construction Urban Study
+    center: |
+      [![](cus_logo_h.png){height=25px}](/)
+    right: |
+      [contact@custudy.org](mailto:contact@custudy.org)
 
+    background: light
+    foreground: dark
 
 format:
   html:
-    theme: pulse
+    theme: spacelab
     date-format: iso
     title-block-banner: true
     toc: true
