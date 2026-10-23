@@ -14,12 +14,13 @@ website:
     logo: cus_logo_v.png
     logo-href: https://www.custudy.org
     search: false
-#    left: 
-#      - href: index.qmd
-#        text: Home
     right:
+      - href: https://news.custudy.org
+        text: "News Letters"
       - href: https://pubs.custudy.org 
-        text: Publications
+        text: "Publications"
+      - href: https://data.custudy.org
+        text: "Data Repository"
   page-footer:
     left: |
       © 2026 Construction Urban Study

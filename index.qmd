@@ -5,7 +5,8 @@ toc: false
 
 ## 건설도시연구(Construction Urban Study)
 
-\
+![](work_in_progress.GIF){height="1in" fig-align="left"}
+
 
 **건설산업**, **도시**, **부동산** 전문가 그룹입니다.
 
@@ -37,6 +38,7 @@ toc: false
 
 - 전략 컨설팅:
 - 사업성 검토:
+- 시공성 검토:
 - 시장 조사:
 - 기획 연구:
 
@@ -46,6 +48,7 @@ toc: false
 
 [consult@custudy.org](mailto:consult@custudy.org)\
 [fs@custudy.org](mailto:fs@custudy.org)\
+[ve@custudy.org](mailto:ve@custudy.org)\
 [survey@custudy.org](mailto:survey@custudy.org)\
 [research@custudy.org](mailto:research@custudy.org)
 
