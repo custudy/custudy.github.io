@@ -13,6 +13,12 @@ website:
   navbar:
     logo: cus_logo_v.png
     search: false
+    left: 
+      - href: index.qmd
+        text: Home
+    right:
+      - href: https://pubs.custudy.org 
+        text: Publications
   page-footer:
     left: |
       © 2026 Construction Urban Study
