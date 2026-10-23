@@ -12,10 +12,11 @@ website:
   draft-mode: visible
   navbar:
     logo: cus_logo_v.png
+    logo-href: https://www.custudy.org
     search: false
-    left: 
-      - href: index.qmd
-        text: Home
+#    left: 
+#      - href: index.qmd
+#        text: Home
     right:
       - href: https://pubs.custudy.org 
         text: Publications
