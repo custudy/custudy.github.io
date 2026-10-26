@@ -1,12 +1,21 @@
 ---
 title: "Home"
+
+listing:
+    contents: notice
+    type: table
+    fields: [title, description, date]
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    max-items: 5
+
 toc: false
 ---
 
 ## 건설도시연구(Construction Urban Study)
 
 ![](work_in_progress.GIF){height="1in" fig-align="left"}
-
 
 **건설산업**, **도시**, **부동산** 전문가 그룹입니다.
 
@@ -27,8 +36,6 @@ toc: false
 :::
 
 :::
-
-\
 
 **사업 분야**
 
@@ -55,3 +62,5 @@ toc: false
 :::
 
 :::
+
+### 공지 사항
