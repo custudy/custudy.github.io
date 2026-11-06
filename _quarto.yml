@@ -14,6 +14,7 @@ website:
     logo: cus_logo_v.png
     logo-href: https://www.custudy.org
     search: false
+    background: primary
 #    right:
 #      - href: https://news.custudy.org
 #        text: "News Letters"
@@ -34,13 +35,18 @@ website:
     right: |
       [contact@custudy.org](mailto:contact@custudy.org)
 
-    background: light
-    foreground: dark
+    background: primary
+# 지정하지 않으면 배경과 대비되는 색이 자동으로 선택됨
+#    foreground: light
+    border: false
 
 format:
   html:
-    theme: spacelab
+    theme: cosmo
+#    style: styles.css
     date-format: iso
+
+title-block-banner: true
 
 lang: ko
 language: korean.yml

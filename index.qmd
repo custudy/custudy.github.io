@@ -19,46 +19,44 @@ toc: false
 
 **건설산업**, **도시**, **부동산** 전문가 그룹입니다.
 
-::: {.columns}
+::::: {layout-ncol="2"}
 
-::: {.column}
+::: {#col-2-1}
 
-- 뉴스레터  구독 신청:
-- 발간 보고서 및 책자:
-
-:::
-
-::: {.column}
-
-[news@custudy.org](mailto:news@custudy.org)\
-[pubs@custudy.org](mailto:pubs@custudy.org)
+- [뉴스레터  구독 신청](mailto:news@custudy.org)
 
 :::
 
+::: {#col-2-2}
+
+- [발간 보고서 및 책자]((mailto:pubs@custudy.org))
+
 :::
+
+:::::
 
 **사업 분야**
 
-::: {.columns}
+::::: {layout-ncol="3"}
 
-::: {.column}
+::: {#col-3-1}
 
-- 전략 컨설팅:
-- 사업성 검토:
-- 시공성 검토:
-- 시장 조사:
-- 기획 연구:
+- [사업성 검토](mailto:fs@custudy.org)\
+- [시공성 검토](mailto:ve@custudy.org)
 
 :::
 
-::: {.column}
+::: {#col-3-2}
 
-[consult@custudy.org](mailto:consult@custudy.org)\
-[fs@custudy.org](mailto:fs@custudy.org)\
-[ve@custudy.org](mailto:ve@custudy.org)\
-[survey@custudy.org](mailto:survey@custudy.org)\
-[research@custudy.org](mailto:research@custudy.org)
+- [시장 조사](mailto:survey@custudy.org)\
 
 :::
 
+::: {#col-3-3}
+
+- [전략 컨설팅](mailto:consult@custudy.org)\
+- [기획 연구](mailto:research@custudy.org)
+
 :::
+
+:::::
