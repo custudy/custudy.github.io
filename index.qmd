@@ -19,21 +19,7 @@ toc: false
 
 **건설산업**, **도시**, **부동산** 전문가 그룹입니다.
 
-::::: {layout-ncol="2"}
-
-::: {#col-2-1}
-
-- [뉴스레터  구독 신청](mailto:news@custudy.org)
-
-:::
-
-::: {#col-2-2}
-
-- [발간 보고서 및 책자]((mailto:pubs@custudy.org))
-
-:::
-
-:::::
+\
 
 **사업 분야**
 
@@ -54,8 +40,26 @@ toc: false
 
 ::: {#col-3-3}
 
-- [전략 컨설팅](mailto:consult@custudy.org)\
+- [경영 전략](mailto:consult@custudy.org)\
 - [기획 연구](mailto:research@custudy.org)
+
+:::
+
+:::::
+
+**구독 신청**
+
+::::: {layout-ncol="2"}
+
+::: {#col-2-1}
+
+- [뉴스레터](mailto:news@custudy.org)
+
+:::
+
+::: {#col-2-2}
+
+- [보고서]((mailto:pubs@custudy.org))
 
 :::
 

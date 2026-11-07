@@ -11,10 +11,10 @@ execute:
 website:
   draft-mode: visible
   navbar:
-    logo: cus_logo_v.png
-    logo-href: https://www.custudy.org
+#    logo: cus_logo_v.png
+#    logo-href: https://www.custudy.org
     search: false
-    background: primary
+#    background: primary
 #    right:
 #      - href: https://news.custudy.org
 #        text: "News Letters"
@@ -30,19 +30,19 @@ website:
   page-footer:
     left: |
       © 2023, 2026 Construction Urban Study
-    center: |
-      [![](/cus_logo_h.png){height=25px}](https://www.custudy.org)
+#    center: |
+#      [![](/cus_logo_h.png){height=25px}](https://www.custudy.org)
     right: |
       [contact@custudy.org](mailto:contact@custudy.org)
 
-    background: primary
+#    background: primary
 # 지정하지 않으면 배경과 대비되는 색이 자동으로 선택됨
 #    foreground: light
     border: false
 
 format:
   html:
-    theme: cosmo
+    theme: spacelab
 #    style: styles.css
     date-format: iso
 
