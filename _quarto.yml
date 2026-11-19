@@ -11,7 +11,7 @@ execute:
 website:
   draft-mode: visible
   navbar:
-    logo: logo_b.png
+    logo: cus_title.png
 #    logo-href: https://www.custudy.org
     search: false
 #    background: primary
@@ -31,7 +31,7 @@ website:
     left: |
       © 2023, 2026 Construction Urban Study
     center: |
-      [![](/title_g.png){height=20px}](https://www.custudy.org)
+      [![](/cus_title_ko.png){height=20px}](https://www.custudy.org)
     right: |
       [contact@custudy.org](mailto:contact@custudy.org)
 
