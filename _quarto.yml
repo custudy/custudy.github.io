@@ -1,18 +1,14 @@
 project:
-#  title: "건설도시연구"
   type: website
   resources: 
     - CNAME
     - "*.(png|jpg|jpeg|svg)"
 
-execute: 
-  freeze: auto
-
 website:
   draft-mode: visible
   navbar:
     logo: cus_title.png
-#    logo-href: https://www.custudy.org
+    logo-href: https://www.custudy.org
     search: false
 #    background: primary
 #    left:
@@ -37,16 +33,19 @@ website:
     right: |
       [contact@custudy.org](mailto:contact@custudy.org)
 
-    background: light
-    foreground: dark
+#    background: light
+#    foreground: dark
 
 format:
   html:
-    theme: Spacelab
+    respect-user-color-scheme: true
+    theme:
+      light: cosmo
+      dark: [cosmo, cus-dark.scss]
     style: styles.css
     date-format: "YYYY년 MM월 DD일"
 
-title-block-banner: true
+#title-block-banner: true
 
 lang: ko
 language: korean.yml
