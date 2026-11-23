@@ -2,17 +2,17 @@ project:
   type: website
   resources: 
     - CNAME
-    - "*.(png|jpg|jpeg|svg)"
+    - "*.(png|jpg|jpeg|svg|gif)"
 
 website:
   draft-mode: visible
   navbar:
-    logo: cus_title.png
-    logo-href: https://www.custudy.org
-    search: false
+#    logo: cus_title.png
+#    logo-href: https://www.custudy.org
+#    search: false
 #    background: primary
-#    left:
-#      - href: index.qmd
+    left:
+      - href: index.qmd
 #    right:
 #      - href: https://news.custudy.org
 #        text: "News Letters"
@@ -28,8 +28,8 @@ website:
   page-footer:
     left: |
       © 2023, 2026 Construction Urban Study
-    center: |
-      [![](/cus_title_ko.png){height=20px}](https://www.custudy.org)
+#    center: |
+#      [![](/cus_title_ko.png){height=20px}](https://www.custudy.org)
     right: |
       [contact@custudy.org](mailto:contact@custudy.org)
 
