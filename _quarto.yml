@@ -32,7 +32,7 @@ website:
 #      [![](/cus_title_ko.png){height=20px}](https://www.custudy.org)
     right: |
       [contact@custudy.org](mailto:contact@custudy.org)
-
+#    border: true
 #    background: light
 #    foreground: dark
 
@@ -40,7 +40,7 @@ format:
   html:
     respect-user-color-scheme: true
     theme:
-      light: cosmo
+      light: [cosmo, cus-light.scss]
       dark: [cosmo, cus-dark.scss]
     style: styles.css
     date-format: "YYYY년 MM월 DD일"

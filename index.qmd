@@ -8,15 +8,15 @@ title: Home
 
 **건설산업**, **도시**, **부동산** 전문가 그룹입니다.
 
-![](images/work_in_progress.GIF){height="1.2in" fig-align="center"}
+\
 
 ### 사업 분야
 
 | [사업성 검토](mailto:fs@custudy.org) | [시장 조사](mailto:survey@custudy.org) | [경영 전략](mailto:consult@custudy.org) |
 | :------: | :-----: | :-----: |
-| ![](images/dollar.gif) | ![](images/line-chart.gif) | ![](images/target.gif) |
+| ![](images/dollar.png) | ![](images/line-chart.png) | ![](images/target.png) |
 | [시공성 검토](mailto:ve@custudy.org) | **도서 출판** | [기획 연구](mailto:research@custudy.org) |
-| ![](images/bar-chart.gif) | ![](images/guide.gif) | ![](images/idea.gif) |
+| ![](images/list.png) | ![](images/notebook.png) | ![](images/idea.png) |
 
 \
 
