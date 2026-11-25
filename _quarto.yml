@@ -7,7 +7,7 @@ project:
 website:
   draft-mode: visible
   navbar:
-#    logo: cus_title.png
+    logo: images/title_en.png
 #    logo-href: https://www.custudy.org
 #    search: false
 #    background: primary
